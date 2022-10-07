@@ -19,3 +19,7 @@ Also, I created a <b>Bug Report System in Notion</b>. You can find it
 <div>
 In the "Found bugs on different sites" Folder you can find test artifacts, especially bud reports that I have found on websites that I use.
 </div>
+<br/>
+<div>
+The main project I have worked on is testing online book-store "RANOK". But also there are practice with Swagger (PetStore)
+</div>
