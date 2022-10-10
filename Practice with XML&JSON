@@ -1,0 +1,52 @@
+XML
+
+<bookshop>
+    <fiction>
+        <novel author="Gogol">"Тарас Бульба" М. В. Гоголь</novel>
+        <novel author="Gerbert">"Дюна" Ф. Герберт</novel>
+        <poem>"Збірка поезій" Л. Костенко</poem>
+    </fiction>
+    <nonFiction>
+        <biography score="1">"Стів Джобс" В. Айзексон</biography>
+        <biography score="2">"Шевченко. Сучасна біографія" С. Росовецький</biography>
+    </nonFiction>
+    <textbook>
+        <historical author="Grushevskiy">"Історія України-Руси" М. С. Грушевський</historical>
+        <schoolTextbook/>
+    </textbook>
+</bookshop>
+
+
+
+
+JSON
+
+{
+  "users": [
+     {"name":"Juliy",
+      "age": 13,
+      "city": "Kharkiv",
+      "job": false
+     },
+    {"name":"Sheldon",
+      "age": 36,
+      "city": "Los Angeles",
+      "job": "physics"
+     },
+    {"name":"Kate",
+      "age":24,
+      "city": "Kiyv",
+      "job": "QA engeneer"
+     },
+    {"name": "Nastya",
+      "age":22,
+      "city":"Kharkiv",
+      "job": false
+     },
+    {"name": "Kostyantin",
+      "age":21,
+      "city": "Mariupol",
+      "job": "full stack developer"
+     }
+  ]
+}
